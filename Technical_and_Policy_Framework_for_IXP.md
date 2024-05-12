@@ -2,7 +2,7 @@
 
 This document outlines the technical specifications, connection policies, and operational guidelines for participants of the Internet Exchange Point (IXP). It aims to ensure efficient, secure, and fair interconnection among members.
 
-#Infrastructure Design and Specifications
+# Infrastructure Design and Specifications
 
 ## Network Design for the IXP
 •	A detailed diagram of the network architecture is provided, showcasing the core and edge design, redundancy schemes, and capacity planning from edge to core to ensure high availability and scalability.
